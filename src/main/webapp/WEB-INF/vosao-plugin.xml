@@ -1,0 +1,11 @@
+<vosao-plugin>
+    <name>flickr</name>
+    <title>$flickr.title</title>
+    <version>0.8</version>
+    <description>$flickr.description</description>
+    <website>www.vosao.org</website>
+    <plugin-config-url>config.html</plugin-config-url>
+    <entry-point-class>
+        com.elogiclab.vosao.plugin.FlickrEntryPoint
+    </entry-point-class>
+</vosao-plugin>
